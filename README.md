@@ -35,6 +35,6 @@ Build a modern data warehouse using SQL Server to consolidate data, enabling ana
 
   ## License
 
-  This project is licensed under the [MIT License](License). You are free to use, modify and share this project with proper attribution 😊.
+  This project is licensed under the [MIT License](License). You are free to use, modify and share this project with proper attribution.
 
   ----------------------
